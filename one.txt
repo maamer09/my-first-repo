@@ -1,1 +1,2 @@
 This is test file which is created for checking the git commands.
+this is new line
